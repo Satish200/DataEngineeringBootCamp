@@ -1,0 +1,2 @@
+path,reason,record
+dbfs:/FileStore/tables/emp-4.json,"org.apache.spark.SparkRuntimeException: [CANNOT_PARSE_JSON_FIELD] Cannot parse the field name 'id' and the value invalid_record of the JSON token type VALUE_STRING to target Spark data type ""INT"".","{""id"": ""invalid_record""}"
